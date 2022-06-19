@@ -1,2 +1,2 @@
 zero_day
-Actualización
+Actualizated
